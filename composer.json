@@ -1,0 +1,15 @@
+{
+    "name": "irfantoor/kit",
+    "description": "An Engineer's PHP Kit for App Development",
+    "type": "project",
+    "require": {
+        "irfantoor/engine": "^0.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irfan TOOR",
+            "email": "email@irfantoor.com"
+        }
+    ]
+}

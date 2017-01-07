@@ -1,2 +1,3 @@
 # kit
-An Engineer's PHP Kit
+An Engineer's PHP Kit for App Development
+
