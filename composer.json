@@ -1,7 +1,7 @@
 {
     "name": "irfantoor/kit",
     "description": "An Engineer's PHP Kit for App Development",
-    "type": "project",
+    "type": "library",
     "require": {
         "irfantoor/engine": "^0.3.0"
     },
